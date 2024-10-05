@@ -68,3 +68,5 @@ public class SJF {
 // 3       1               0               1
 // 1       2               1               3
 // 2       3               3               6
+// Average Waiting Time: 1.3333334
+// Average Turnaround Time: 3.3333333
