@@ -266,8 +266,8 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
-# Java Class files
-*.class
+# # Java Class files
+# *.class
 
 # Business Intelligence projects
 *.rdl.data
